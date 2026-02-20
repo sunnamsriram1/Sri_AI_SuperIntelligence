@@ -19,7 +19,7 @@ pip install gTTS
 pip install pygame
 pip install random2
 pip install requests
-git clone https://github.com/sunnamsriram1/TeluguAI.git
+git clone https://github.com/sunnamsriram1/Sri_AI_SuperIntelligence.git
 cd TeluguAI
 python3 TeluguAI.py
 ```
