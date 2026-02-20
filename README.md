@@ -20,7 +20,7 @@ pip install pygame
 pip install random2
 pip install requests
 git clone https://github.com/sunnamsriram1/Sri_AI_SuperIntelligence.git
-cd TeluguAI
+cd Sri_AI_SuperIntelligence.git
 python3 TeluguAI.py
 ```
 ### Blog:
